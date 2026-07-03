@@ -1,0 +1,46 @@
+Name: charutosh dhatark
+
+Project Title:
+User Management System
+
+Description:
+This project is a User Management System developed using React.js. It displays user information in a data table with features like search, sorting, pagination, and a responsive user interface.
+
+Technologies Used:
+- React.js
+- Axios
+- React Data Table Component
+- Bootstrap 5
+- CSS
+
+API Used:
+https://dummyjson.com/users?limit=100
+
+Features:
+- Display user details
+- Search users by ID, First Name, Last Name, and Email
+- Sort user data
+- Pagination (10, 25, 50, 100)
+- Responsive design
+- Fixed table header
+- Edit and Delete action buttons (UI)
+
+Installation Steps:
+
+1. Clone the repository
+   git clone https://github.com/pritamdhatrak/user.git
+
+2. Open the project folder
+   cd user
+
+3. Install dependencies
+   npm install
+
+4. Start the application
+   npm start
+
+5. Open the application in your browser
+   http://localhost:3000
+
+GitHub Repository:
+https://github.com/pritamdhatrak/user
